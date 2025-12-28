@@ -53,8 +53,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "https://gitlab.com/Valo27/valot.git",
-                    "tag" : "v0.9.1"
+                    "url" : "https://gitlab.com/valot/linux/valot.git",
+                    "tag" : "v0.9.2b1"
                 }
             ]
         }
