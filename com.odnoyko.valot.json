@@ -48,7 +48,7 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "https://gitlab.com/Valo27/valot.git",
+                    "url" : "https://gitlab.com/valot/app/valot.git",
                     "tag" : "v0.9.4b2",
                     "commit" : "e80feffffd70267089bad82398f9ece3196aad54"
                 }
