@@ -50,7 +50,7 @@
                     "type" : "git",
                     "url" : "https://gitlab.com/valot/app/valot.git",
                     "tag" : "v0.9.4b8",
-                    "commit" : "e80feffffd70267089bad82398f9ece3196aad54"
+                    "commit" : "24084c456d8e26e9838cb81beffc8f85d978a688"
 
                 }
             ]
